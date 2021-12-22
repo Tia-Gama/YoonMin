@@ -14,8 +14,6 @@ namespace Laba4_2
             int b = Int32.Parse(Console.ReadLine());
 
             int c = a + b; 
-            
-         
 
             int r = a - b;
         }
