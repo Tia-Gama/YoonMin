@@ -15,6 +15,9 @@ namespace Laba4_2
 
             int c = a + b; 
             
+         
+
+            int r = a - b;
         }
     }
 }
